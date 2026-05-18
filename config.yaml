@@ -2,3 +2,4 @@
 version: 1.0
 debug: true
 max_items: 10
+debug: false
