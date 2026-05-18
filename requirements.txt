@@ -1,0 +1,3 @@
+# Python依赖
+pandas
+numpy
